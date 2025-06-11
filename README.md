@@ -15,3 +15,5 @@ The project demonstrates semantic HTML, form handling, and responsive layout.
 ### How to View the Project:
 1. Clone or download the project folder
 2. Open `index.html` in any web browser
+
+
