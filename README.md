@@ -1,0 +1,1 @@
+# Kazutora Hattori\n\n## Project Title: Personal Portfolio Website\n\nThis is a personal portfolio website built using HTML and CSS. It includes sections such as About, Skills, and Contact. The project showcases semantic HTML structure, responsive layout, and clean design.
